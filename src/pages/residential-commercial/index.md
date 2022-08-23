@@ -7,7 +7,7 @@ image: /img/beach-house.jpg
 
 <!--StartFragment-->
 
-SunWind, LLC, has worked with hundreds of Cape home and business owners to offset their utility costs by improving their home or business’s energy efficiency. SunWind has partnered with some of the most trusted brands in the solar industry such as LG, Enphase, and Sonnen to offer the best technology available today.
+SunWind, LLC, has worked with hundreds of Cape home and business owners to offset their utility costs by improving their home or business’s energy efficiency. SunWind has partnered with some of the most trusted brands in the solar industry such as Enphase and Generac to offer the best technology available today.
 
 ![](img/lg-logo.png)![](img/enphase-logo.png)![](img/sonnen-logo.png)
 
